@@ -97,7 +97,14 @@ body {
   height: -webkit-fill-available;
 }
 .feedback {
+  color: #cfcfcf;
   margin-bottom: 20px;
+}
+.card-3 .feedback,
+.card-5 .feedback {
+  font-size: 500;
+  color: #222222;
+  opacity: 0.7;
 }
 footer {
   margin-top: 5px;
